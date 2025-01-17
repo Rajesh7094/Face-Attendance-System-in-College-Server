@@ -1,0 +1,10 @@
+{
+    "lab1": [
+        {"period": 1, "year": 2, "department": "AI&DS"},
+        {"period": 2, "year": 3, "department": "CSE"}
+    ],
+    "lab2": [
+        {"period": 1, "year": 2, "department": "CSE"},
+        {"period": 2, "year": 3, "department": "AI&DS"}
+    ]
+}
